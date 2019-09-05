@@ -1,1 +1,14 @@
-{}
+{
+  "theme": {
+    "slug": "vrem-base",
+    "name": "VREM Base Theme",
+    "author": "Graham Powell"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "vrem-base.local",
+      "https": false
+    }
+  }
+}
